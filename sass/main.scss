@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:Poppins;
+    background-image:url(../img/Group\ 483.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-color: #EEF7FB
+}
+@import "./header";
+@import "./hero"
